@@ -1,9 +1,4 @@
 # personal
 
-##The list of future projects
-
- * - [ ] -> Pathfinding algorithm wrapped with GUI
- 	* - [ ] -> Write overall algorithms that I want to apply
- 	* - [ ] -> Sort them by their implementation difficulties
- 	* - [ ] -> ...
- * - [ ] -> ...
+* List of all projects, that came up on my mind
+* The MIPT Deep Learning SchoolT
